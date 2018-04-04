@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Motorola Moto",
+      "price": "2000",
+      "quantity": 2000,
+      "locationId": 1,
+      "familyId": 2,
+      "cost": "2000"
+    },
+    {
+      "id": 3,
+      "name": "Philips Lenova",
+      "price": "30000",
+      "quantity": 3000,
+      "locationId": 3,
+      "familyId": 2,
+      "cost": "30000"
+    },
+    {
+      "id": 6,
+      "name": "Mi",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "name": "Iphone 6s",
+      "price": "60000"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Location001"
+    },
+    {
+      "id": 2,
+      "name": "Location002"
+    },
+    {
+      "id": 3,
+      "name": "Location003"
+    }
+  ],
+  "families": [
+    {
+      "id": 1,
+      "name": "FM001"
+    },
+    {
+      "id": 2,
+      "name": "FM002"
+    },
+    {
+      "id": 3,
+      "name": "FM003"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 2,
+      "cost": 12,
+      "quantity": 100,
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "cost": 15,
+      "quantity": 101,
+      "productId": 3
+    }
+  ],
+  "Coins": [
+    {
+      "id": 1,
+      "name": "bitCoin",
+      "price": "$10"
+    },
+    {
+      "id": 2,
+      "name": "Sanjeevkumar",
+      "price": "12345"
+    },
+    {
+      "id": 3,
+      "name": "rupess",
+      "price": "1000rup"
+    },
+    {
+      "id": 4,
+      "name": "Dollar",
+      "price": "10000"
+    }
+  ]
+}
